@@ -1,0 +1,1 @@
+ทำโลโก้ ,ใส่ backgound, ใส่ sound effect ตอนขยับ + ตอน clear line , แสดงคะแนน และ level 
